@@ -1,0 +1,1 @@
+DB_DRIVER=postgres DB_HOST=localhost DB_PORT=5432 DB_NAME=db_enigma_shop DB_USER=postgres DB_PASSWORD=12345678 go run .
